@@ -1,0 +1,20 @@
+{
+  "main": "index.js",
+  "dependencies": {
+    "@antv/l7": "latest",
+    "@antv/l7-maps": "latest"
+  },
+  "keywords": [],
+  "name": "e1ypp",
+  "description": null,
+  "version": "0.0.0",
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "main": "index.js",
+  "dependencies": {
+    "@antv/l7": "latest",
+    "@antv/l7-maps": "latest"
+  },
+  "keywords": [],
+  "name": "l7-20-react",
+  "description": ""
+}
